@@ -1,0 +1,23 @@
+table, th, td {
+    border: 1px solid black;
+    
+}
+.green{
+    background-color: lightgreen;
+}
+
+.red{
+    color: red;
+}
+table{
+    width: 100%;
+}
+.blue{
+    text-align: left;
+    background-color: lightskyblue;
+}
+.rose{
+    background-color: magenta;
+    text-align: end;
+    
+}
