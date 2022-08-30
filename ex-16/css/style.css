@@ -1,0 +1,18 @@
+table, th, td {
+    width: 650px;
+    border: black solid 1px;
+    text-align: center;
+}
+.green{
+    background-color: lightgreen;
+}
+
+.orange{
+    background-color:bisque;
+}
+.yellow{
+    background-color:lightyellow;
+}
+.background{
+    background-image: url(../img/patitas.jpg);
+}
